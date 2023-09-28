@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: rgb(63, 117, 184); 
+}
+.section{
+    display: flex;
+    margin-top: 150px;
+   
+    justify-content: center;
+}
+
+.left{
+    background-color: aliceblue;
+}
+.right{
+    background-color: blue;
+}
